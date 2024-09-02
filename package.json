@@ -41,7 +41,8 @@
   },
   "devDependencies": {
     "mocha": "^8.0.0",
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0"
   },
   "directories": {
     "test": "test"
